@@ -1,0 +1,332 @@
+bill_id,roll_call_id,date,chamber,description,yea,nay,nv,absent,total
+1297892,914696,2020-02-04,House,Passage,69,1,4,0,74
+1298258,916858,2020-02-06,House,Passage,67,0,7,0,74
+1298258,949986,2020-03-11,Senate,Passage,37,0,1,0,38
+1299419,914397,2020-02-04,Senate,"Passage ***************************",36,0,2,0,38
+1299419,914398,2020-02-04,House,Passage,70,0,4,0,74
+1299512,910540,2020-01-29,Senate,"Passage as amended",34,3,1,0,38
+1299512,910541,2020-01-29,Senate,"Approval of amendment",8,29,1,0,38
+1299512,910542,2020-01-29,Senate,"Passage ***************************",35,0,3,0,38
+1299512,951247,2020-03-12,House,Passage,62,7,6,0,75
+1299512,967016,2020-06-17,Senate,"Passage in concurrence",34,4,0,0,38
+1299548,914509,2020-02-04,House,Passage,70,0,4,0,74
+1299566,920779,2020-02-11,Senate,"Passage as amended",31,0,7,0,38
+1299566,920780,2020-02-11,Senate,"Departments of state government approval of amendment",30,0,8,0,38
+1299604,935920,2020-02-26,Senate,Passage,37,0,1,0,38
+1300282,916945,2020-02-06,House,Passage,67,0,7,0,74
+1300294,967040,2020-06-17,House,"Passage as amended",72,0,3,0,75
+1300294,967041,2020-06-17,House,"Passage of amendment",72,0,3,0,75
+1300294,967626,2020-06-18,Senate,"- general powers in concurrence",36,1,1,0,38
+1300412,967083,2020-06-17,House,Passage,70,0,5,0,75
+1301066,917078,2020-02-06,House,Passage,67,0,7,0,74
+1301154,934293,2020-02-25,House,Passage,71,0,3,0,74
+1301168,920252,2020-02-11,House,Passage,69,0,5,0,74
+1301212,943146,2020-03-04,House,Passage,65,0,9,0,74
+1301421,916867,2020-02-06,House,Passage,65,0,7,2,74
+1301437,920439,2020-02-11,House,Passage,68,0,6,0,74
+1307543,934653,2020-02-25,House,"Passage in concurrence",71,0,3,0,74
+1307999,923204,2020-02-13,House,"Passage as amended",60,6,8,0,74
+1307999,923205,2020-02-13,House,"Passage as amended passage of amendment",9,56,9,0,74
+1307999,923206,2020-02-13,House,"Passage of amendment",58,5,11,0,74
+1307999,923207,2020-02-13,House,"Passage of amendment ruling of the chair",55,12,7,0,74
+1308990,916953,2020-02-06,House,"Passage as amended",58,7,9,0,74
+1308990,916954,2020-02-06,House,"Passage of amendment",64,0,10,0,74
+1308990,948578,2020-03-10,Senate,"Passage as amended",32,5,0,1,38
+1308990,948579,2020-03-10,Senate,"The julie lynn cardinal act approval of amendment",37,0,0,1,38
+1308990,970956,2020-07-13,Senate,"Offenses - weapons approval of amendment lc 003663/5",35,0,3,0,38
+1308990,970957,2020-07-13,Senate,"Passage as amended",33,3,2,0,38
+1309306,936338,2020-02-26,House,"Passage in concurrence",72,0,2,0,74
+1309382,903188,2020-01-15,House,Passage,61,0,13,0,74
+1309485,905917,2020-01-22,Senate,"Audilia vale and jose v. monteiro jr",34,0,4,0,38
+1309485,912911,2020-01-29,Senate,"The charter of micron cmm services, llc",33,0,5,0,38
+1309485,967915,2020-06-18,Senate,Passage,37,0,1,0,38
+1311412,943008,2020-03-04,House,Passage,68,0,6,0,74
+1311499,936575,2020-02-26,House,Passage,73,0,1,0,74
+1311799,923248,2020-02-13,House,Passage,62,5,7,0,74
+1311799,942956,2020-03-04,Senate,"Passage in concurrence",30,6,2,0,38
+1311851,967029,2020-06-17,House,"Passage in concurrence",70,0,5,0,75
+1311887,967532,2020-06-18,Senate,"Passage in concurrence",31,7,0,0,38
+1311887,967533,2020-06-18,House,"Passage as amended",60,13,2,0,75
+1311887,967534,2020-06-18,House,"Passage of amendment",64,8,3,0,75
+1316827,916147,2020-02-05,Senate,"Retail licenses",36,0,2,0,38
+1316827,966986,2020-06-17,House,Passage,70,0,5,0,75
+1316874,920594,2020-02-11,Senate,"Passage as amended",31,0,7,0,38
+1316874,920595,2020-02-11,Senate,"Noncompetition agreements approval of amendment",30,0,8,0,38
+1316895,917091,2020-02-06,Senate,"Suppression of cont. diseases",34,0,4,0,38
+1316966,944262,2020-03-05,Senate,Passage,32,0,6,0,38
+1316966,966976,2020-06-17,House,Passage,70,0,5,0,75
+1317029,944254,2020-03-05,House,Passage,66,0,8,0,74
+1317063,967544,2020-06-18,House,"Passage in concurrence",72,0,3,0,75
+1317083,917448,2020-02-06,Senate,"Professions-physical therapists",34,0,4,0,38
+1317097,920812,2020-02-11,Senate,Passage,30,1,7,0,38
+1317181,915670,2020-02-05,Senate,"Retail licenses",36,0,2,0,38
+1317181,967117,2020-06-17,House,Passage,70,0,5,0,75
+1317187,916998,2020-02-06,Senate,"Open meetings",32,0,4,2,38
+1317229,950115,2020-03-11,House,Passage,67,0,7,0,74
+1317235,966982,2020-06-17,House,Passage,70,0,5,0,75
+1317240,966998,2020-06-17,House,Passage,70,0,5,0,75
+1317309,966997,2020-06-17,House,Passage,70,0,5,0,75
+1317309,967561,2020-06-18,Senate,"Passage in concurrence",37,1,0,0,38
+1317323,971585,2020-07-16,House,Passage,58,11,6,0,75
+1317332,941758,2020-03-03,House,Passage,63,0,11,0,74
+1317503,921970,2020-02-12,House,Passage,68,0,6,0,74
+1317508,967048,2020-06-17,House,"Passage in concurrence",70,0,5,0,75
+1317768,904795,2020-01-22,House,Passage,66,0,8,0,74
+1318163,944441,2020-03-05,House,Passage,66,0,8,0,74
+1318213,920108,2020-02-11,Senate,Passage,31,0,7,0,38
+1318213,920109,2020-02-11,Senate,"Fair housing practices approval of amendment",2,28,8,0,38
+1318240,935014,2020-02-25,Senate,Passage,37,0,1,0,38
+1318281,920217,2020-02-11,Senate,"General powers",30,1,7,0,38
+1318281,967031,2020-06-17,House,"Passage as amended",72,0,3,0,75
+1318281,967032,2020-06-17,House,"Passage in concurrence passage of amendment",72,0,3,0,75
+1318281,967624,2020-06-18,Senate,"Passage in concurrence",37,1,0,0,38
+1318301,934967,2020-02-25,Senate,Passage,37,0,1,0,38
+1318310,967356,2020-06-18,House,"Passage in concurrence",72,0,3,0,75
+1318388,920904,2020-02-11,Senate,"Passage as amended",31,0,7,0,38
+1318388,920905,2020-02-11,Senate,"Rhode island parentage act approval of amendment",31,0,7,0,38
+1318388,971562,2020-07-16,Senate,"Passage in concurrence",34,1,3,0,38
+1318388,971563,2020-07-16,House,"Passage as amended",64,1,10,0,75
+1318388,971564,2020-07-16,House,"Passage of amendment",67,0,8,0,75
+1318407,920630,2020-02-11,Senate,Passage,30,0,8,0,38
+1318465,935058,2020-02-25,Senate,Passage,37,0,1,0,38
+1318582,921919,2020-02-12,House,Passage,67,0,7,0,74
+1318582,949613,2020-03-11,Senate,"Passage as amended",37,0,1,0,38
+1318582,949614,2020-03-11,Senate,"Solemnization of marriages approval of amendment",37,0,1,0,38
+1318612,967037,2020-06-17,House,Passage,70,0,5,0,75
+1318631,967024,2020-06-17,House,Passage,70,0,5,0,75
+1318668,966996,2020-06-17,House,Passage,70,0,5,0,75
+1318716,923244,2020-02-13,House,Passage,66,0,8,0,74
+1318716,951103,2020-03-12,Senate,Passage,33,3,2,0,38
+1318732,966991,2020-06-17,House,Passage,70,0,5,0,75
+1318741,966994,2020-06-17,House,"Passage in concurrence",70,0,5,0,75
+1318751,914832,2020-02-04,House,Passage,70,0,4,0,74
+1318797,944135,2020-03-05,House,Passage,70,0,4,0,74
+1318844,922169,2020-02-12,House,Passage,67,0,7,0,74
+1319437,915687,2020-02-05,Senate,Passage,30,6,2,0,38
+1319437,915688,2020-02-05,Senate,"Relations - minimum wages approval of amendment",6,30,2,0,38
+1319437,915689,2020-02-05,Senate,"Relations - minimum wages approval of amendment",6,30,2,0,38
+1319437,942644,2020-03-04,House,"Passage in concurrence",61,7,6,0,74
+1319449,922204,2020-02-12,House,Passage,67,0,7,0,74
+1319490,934982,2020-02-25,House,Passage,69,0,5,0,74
+1322442,936851,2020-02-26,Senate,Passage,37,0,1,0,38
+1322522,922074,2020-02-12,House,"Passage in concurrence0",67,0,7,0,74
+1323326,949899,2020-03-11,House,"Passage in concurrence",66,0,8,0,74
+1323484,971694,2020-07-16,House,Passage,69,0,6,0,75
+1323540,922024,2020-02-12,House,Passage,67,0,7,0,74
+1323895,948989,2020-03-10,Senate,"Passage as amended",32,5,0,1,38
+1323895,948990,2020-03-10,Senate,"The julie lynn cardinal act approval of amendment",37,0,0,1,38
+1323895,970978,2020-07-13,Senate,"Passage as amended",33,3,2,0,38
+1323895,970979,2020-07-13,Senate,"Offenses - weapons approval of amendment lc 003801/4",34,0,4,0,38
+1323977,948509,2020-03-10,House,Passage,68,1,5,0,74
+1324708,934487,2020-02-25,House,Passage,67,0,7,0,74
+1324849,944549,2020-03-05,House,Passage,69,0,5,0,74
+1325856,944766,2020-03-05,House,Passage,66,0,8,0,74
+1325865,944737,2020-03-05,House,Passage,66,0,8,0,74
+1325876,923105,2020-02-13,Senate,"Passage as amended",32,0,6,0,38
+1325876,923106,2020-02-13,Senate,"Mail ballots - board of election approval of amendment",32,0,6,0,38
+1325876,967002,2020-06-17,House,"Passage as amended",54,18,3,0,75
+1325876,967003,2020-06-17,House,"Passage in concurrence passage of amendment",61,10,4,0,75
+1325876,967649,2020-06-18,Senate,"Passage in concurrence",25,12,0,1,38
+1325945,944137,2020-03-05,House,Passage,66,0,8,0,74
+1325963,950018,2020-03-11,House,Passage,65,2,7,0,74
+1329850,941372,2020-03-03,Senate,Passage,38,0,0,0,38
+1329871,943303,2020-03-04,Senate,"Maximum for kindergarten through grade two",33,3,2,0,38
+1329886,967629,2020-06-18,House,"Passage in concurrence",72,0,3,0,75
+1329937,967646,2020-06-18,House,"Passage in concurrence",72,0,3,0,75
+1329961,935148,2020-02-25,Senate,Passage,37,0,1,0,38
+1330016,970934,2020-07-13,Senate,Passage,32,3,2,1,38
+1330016,970935,2020-07-13,Senate,"Cancer benefits for firefighters approval of amendment lc 004098/2",2,32,3,1,38
+1330016,971529,2020-07-16,House,"Passage in concurrence",67,0,8,0,75
+1330050,967651,2020-06-18,House,"Passage in concurrence",72,0,3,0,75
+1330114,935246,2020-02-25,Senate,Passage,37,0,1,0,38
+1330126,935259,2020-02-25,Senate,Passage,37,0,1,0,38
+1330294,935292,2020-02-25,Senate,Passage,37,0,1,0,38
+1330377,936693,2020-02-26,Senate,Passage,36,0,2,0,38
+1330377,967025,2020-06-17,House,Passage,70,0,5,0,75
+1330427,942854,2020-03-04,Senate,Passage,33,2,2,1,38
+1330435,934591,2020-02-25,Senate,"Passage as amended",36,1,1,0,38
+1330435,934592,2020-02-25,Senate,"Contribution and expendtures approval of amendment",37,0,1,0,38
+1330603,944579,2020-03-05,House,Passage,66,0,8,0,74
+1330711,944626,2020-03-05,House,Passage,66,0,8,0,74
+1330858,971493,2020-07-16,Senate,"Passage in concurrence",33,3,1,1,38
+1330858,971494,2020-07-16,House,Passage,61,7,7,0,75
+1331080,971547,2020-07-16,Senate,"Passage as amended",35,0,3,0,38
+1331080,971548,2020-07-16,Senate,"And sickness insurance policies approval of amendment",36,1,1,0,38
+1331213,944592,2020-03-05,House,Passage,66,0,8,0,74
+1331255,944483,2020-03-05,House,Passage,66,0,8,0,74
+1331286,941727,2020-03-03,Senate,Passage,35,3,0,0,38
+1331286,951249,2020-03-12,House,"Passage in concurrence",67,2,6,0,75
+1331545,951248,2020-03-12,House,"Passage in concurrence",66,0,9,0,75
+1332660,948768,2020-03-10,House,Passage,67,0,7,0,74
+1333869,951251,2020-03-12,House,"Passage in concurrence",66,0,9,0,75
+1333979,951250,2020-03-12,House,Passage,66,0,9,0,75
+1334001,923239,2020-02-13,House,Passage,65,0,9,0,74
+1334042,944590,2020-03-05,Senate,Passage,30,1,7,0,38
+1334042,967001,2020-06-17,House,"Passage in concurrence",70,0,5,0,75
+1336843,944647,2020-03-05,House,Passage,66,0,8,0,74
+1336927,966972,2020-06-17,House,Passage,70,0,5,0,75
+1336957,971521,2020-07-16,Senate,"Passage in concurrence",36,1,1,0,38
+1336957,971522,2020-07-16,House,"Passage as amended",67,1,7,0,75
+1336957,971523,2020-07-16,House,"Passage of amendment",66,0,9,0,75
+1336969,967034,2020-06-17,House,"Passage in concurrence",70,0,5,0,75
+1336969,967619,2020-06-18,Senate,"Passage in concurrence",36,1,1,0,38
+1336979,966979,2020-06-17,House,Passage,64,8,3,0,75
+1336979,967615,2020-06-18,Senate,"Passage in concurrence",32,6,0,0,38
+1340559,967018,2020-06-17,House,Passage,66,6,3,0,75
+1340880,944740,2020-03-05,House,Passage,66,0,8,0,74
+1340880,971515,2020-07-16,House,"Passage in concurrence",68,0,7,0,75
+1345939,942769,2020-03-04,Senate,"Holley landing",36,0,2,0,38
+1346196,943155,2020-03-04,Senate,"Passage as amended",36,0,2,0,38
+1346196,943156,2020-03-04,Senate,"Committee on naming new building approval of amendment",36,0,2,0,38
+1346196,967035,2020-06-17,House,Passage,70,0,5,0,75
+1346869,971581,2020-07-16,House,"Passage in concurrence",69,0,6,0,75
+1346911,967065,2020-06-17,Senate,Passage,37,1,0,0,38
+1346911,967654,2020-06-18,House,"Passage in concurrence",72,0,3,0,75
+1346914,967352,2020-06-18,House,"Passage in concurrence",72,0,3,0,75
+1346914,967809,2020-06-17,Senate,Passage,36,1,1,0,38
+1347000,934523,2020-02-25,Senate,"Passage ***************************",35,0,3,0,38
+1347001,967042,2020-06-17,Senate,Passage,37,1,0,0,38
+1347001,967543,2020-06-18,House,"Passage in concurrence",72,0,3,0,75
+1349473,934997,2020-02-25,House,Passage,66,0,8,0,74
+1350084,967520,2020-06-18,Senate,"Passage as amended",33,5,0,0,38
+1350084,967521,2020-06-18,Senate,"Generally - causes of action approval of amendment lc 005058/5",36,0,2,0,38
+1350306,970983,2020-07-13,Senate,Passage,36,0,2,0,38
+1350308,967027,2020-06-17,Senate,Passage,38,0,0,0,38
+1350315,970911,2020-07-13,Senate,"Passage as amended",34,1,3,0,38
+1350315,970912,2020-07-13,Senate,"Fields - airport zoning approval of amendment lc 004935/2",34,0,4,0,38
+1350408,967052,2020-06-17,Senate,Passage,38,0,0,0,38
+1350408,971693,2020-07-16,House,"Passage in concurrence",67,0,8,0,75
+1350425,971588,2020-07-16,Senate,Passage,37,0,1,0,38
+1350425,971589,2020-07-16,House,"Passage in concurrence",67,0,8,0,75
+1350433,971696,2020-07-16,Senate,Passage,31,2,3,2,38
+1350496,951243,2020-03-12,House,Passage,66,0,9,0,75
+1350496,967059,2020-06-17,House,Passage,68,0,7,0,75
+1350533,966990,2020-06-17,House,Passage,70,0,5,0,75
+1350564,948690,2020-03-10,House,Passage,67,0,5,2,74
+1350564,966999,2020-06-17,House,Passage,65,0,10,0,75
+1350604,967000,2020-06-17,House,Passage,70,0,5,0,75
+1350650,951244,2020-03-12,House,Passage,66,0,9,0,75
+1350735,951319,2020-03-12,House,Passage,66,0,9,0,75
+1350859,971526,2020-07-16,House,Passage,66,0,9,0,75
+1350866,951245,2020-03-12,House,Passage,66,0,9,0,75
+1350867,967014,2020-06-17,House,Passage,70,0,5,0,75
+1350911,966971,2020-06-17,House,Passage,70,0,5,0,75
+1351388,951246,2020-03-12,House,Passage,66,0,9,0,75
+1351388,967365,2020-06-18,House,"Passage in concurrence",70,0,5,0,75
+1351388,967912,2020-06-17,Senate,Passage,35,0,2,1,38
+1351433,966975,2020-06-17,House,Passage,55,17,3,0,75
+1351433,967535,2020-06-18,Senate,"Passage in concurrence",26,11,0,1,38
+1351445,967013,2020-06-17,House,Passage,70,0,5,0,75
+1352478,971517,2020-07-16,House,Passage,69,0,6,0,75
+1352935,967593,2020-06-18,Senate,Passage,33,5,0,0,38
+1352935,967594,2020-06-18,House,"Passage in concurrence",64,8,3,0,75
+1355747,943116,2020-03-04,House,Passage,61,0,13,0,74
+1356084,967627,2020-06-18,Senate,Passage,37,1,0,0,38
+1356084,967628,2020-06-18,House,"Passage in concurrence",66,5,4,0,75
+1358662,966988,2020-06-17,House,Passage,70,0,5,0,75
+1358976,950122,2020-03-11,House,Passage,66,0,8,0,74
+1365150,967528,2020-06-18,House,"Passage in concurrence",72,0,3,0,75
+1365156,967046,2020-06-17,Senate,Passage,38,0,0,0,38
+1365164,970960,2020-07-13,Senate,Passage,36,0,2,0,38
+1365164,971528,2020-07-16,House,"Passage in concurrence",67,0,8,0,75
+1365175,967633,2020-06-18,Senate,Passage,37,1,0,0,38
+1365175,967634,2020-06-18,House,"Passage in concurrence",71,0,4,0,75
+1365186,967361,2020-06-18,House,"Passage in concurrence",72,0,3,0,75
+1367134,968010,2020-06-17,Senate,Passage,37,0,1,0,38
+1367247,971550,2020-07-16,House,"Passage in concurrence",67,0,8,0,75
+1367818,971506,2020-07-16,House,"Passage in concurrence",69,0,6,0,75
+1367820,971543,2020-07-16,House,"Passage in concurrence",67,0,8,0,75
+1367827,971511,2020-07-16,House,"Passage in concurrence",69,0,6,0,75
+1367832,971697,2020-07-16,House,"Passage in concurrence",69,0,6,0,75
+1367835,971557,2020-07-16,House,"Passage in concurrence",69,0,6,0,75
+1367838,971507,2020-07-16,House,"Passage in concurrence",69,0,6,0,75
+1367840,971559,2020-07-16,House,"Passage in concurrence",69,0,6,0,75
+1369063,967038,2020-06-17,House,"Passage in concurrence",70,0,5,0,75
+1369072,967009,2020-06-17,House,Passage,72,0,3,0,75
+1369081,967030,2020-06-17,House,Passage,70,0,5,0,75
+1369105,967017,2020-06-17,House,Passage,70,0,5,0,75
+1369213,967631,2020-06-18,House,"Passage in concurrence",72,0,3,0,75
+1369213,967913,2020-06-17,Senate,Passage,36,2,0,0,38
+1369219,967079,2020-06-17,Senate,Passage,36,0,1,1,38
+1369219,967587,2020-06-18,House,"Passage in concurrence",70,0,5,0,75
+1369225,967578,2020-06-18,House,"Passage in concurrence",70,0,5,0,75
+1369232,967644,2020-06-18,House,"Passage in concurrence",70,0,5,0,75
+1369243,967541,2020-06-18,House,"Passage in concurrence",71,0,4,0,75
+1369249,971530,2020-07-16,House,"Passage in concurrence",67,0,8,0,75
+1369261,967590,2020-06-18,House,"Passage in concurrence",71,0,4,0,75
+1369267,967572,2020-06-18,House,"Passage in concurrence",70,0,5,0,75
+1369515,967630,2020-06-18,House,"Passage in concurrence",71,0,4,0,75
+1369526,971527,2020-07-16,House,"Passage in concurrence",67,0,8,0,75
+1369539,967350,2020-06-18,House,"Passage in concurrence",71,0,4,0,75
+1369549,967502,2020-06-18,Senate,Passage,37,0,1,0,38
+1369626,967351,2020-06-18,Senate,Passage,36,1,1,0,38
+1369626,971590,2020-07-16,House,"Passage in concurrence",69,0,6,0,75
+1369839,967607,2020-06-18,House,"Passage in concurrence",72,0,3,0,75
+1369900,967603,2020-06-18,House,"Passage in concurrence",72,0,3,0,75
+1369957,967605,2020-06-18,House,"Passage in concurrence",72,0,3,0,75
+1370430,967591,2020-06-18,House,"Passage in concurrence",70,0,5,0,75
+1370435,967600,2020-06-18,House,"Passage in concurrence",70,0,5,0,75
+1370447,967601,2020-06-18,House,"Passage in concurrence",70,0,5,0,75
+1370478,967995,2020-06-17,House,Passage,67,0,8,0,75
+1370497,967636,2020-06-18,Senate,"Passage as amended",38,0,0,0,38
+1370497,967637,2020-06-18,Senate,"- change the name of the state approval of amendment lc 005438/2",36,0,2,0,38
+1370497,971579,2020-07-16,House,"Passage in concurrence",67,0,8,0,75
+1370503,967639,2020-06-18,Senate,Passage,38,0,0,0,38
+1370503,967640,2020-06-18,House,"Passage in concurrence",71,0,4,0,75
+1370513,971553,2020-07-16,House,"Passage in concurrence",69,0,6,0,75
+1370621,971551,2020-07-16,House,Passage,69,0,6,0,75
+1370626,967469,2020-06-18,House,Passage,70,0,5,0,75
+1370630,967582,2020-06-18,House,Passage,70,0,5,0,75
+1370632,971544,2020-07-16,House,Passage,69,0,6,0,75
+1370635,971586,2020-07-16,Senate,"Passage in concurrence",37,1,0,0,38
+1370635,971587,2020-07-16,House,Passage,69,0,6,0,75
+1370639,967584,2020-06-18,House,"Passage in concurrence",71,0,4,0,75
+1370641,971591,2020-07-16,House,Passage,69,0,6,0,75
+1370645,971535,2020-07-16,House,Passage,69,0,6,0,75
+1370654,971538,2020-07-16,House,Passage,68,0,7,0,75
+1370658,971580,2020-07-16,House,Passage,66,0,9,0,75
+1370665,971510,2020-07-16,House,Passage,68,0,7,0,75
+1370668,967592,2020-06-18,House,Passage,70,0,5,0,75
+1370674,971542,2020-07-16,House,Passage,69,0,6,0,75
+1370682,971531,2020-07-16,House,Passage,69,0,6,0,75
+1370688,971509,2020-07-16,House,Passage,69,0,6,0,75
+1370705,971508,2020-07-16,House,Passage,69,0,6,0,75
+1370712,971541,2020-07-16,House,Passage,63,0,12,0,75
+1370736,967585,2020-06-18,House,Passage,70,0,5,0,75
+1370958,971512,2020-07-16,House,Passage,69,1,5,0,75
+1370962,971516,2020-07-16,House,Passage,69,0,6,0,75
+1372305,971504,2020-07-16,House,"Passage in concurrence",69,0,6,0,75
+1372310,971525,2020-07-16,House,"Passage in concurrence",67,0,8,0,75
+1372315,971690,2020-07-16,House,"Passage in concurrence",69,0,6,0,75
+1372319,971520,2020-07-16,House,"Passage in concurrence",69,0,6,0,75
+1372324,971524,2020-07-16,House,"Passage in concurrence",69,0,6,0,75
+1372431,971537,2020-07-16,House,Passage,69,0,6,0,75
+1372437,971518,2020-07-16,Senate,"Passage in concurrence",36,1,1,0,38
+1372437,971519,2020-07-16,House,Passage,68,0,7,0,75
+1372445,970984,2020-07-13,Senate,Passage,36,0,2,0,38
+1372445,971505,2020-07-16,House,"Passage in concurrence",67,0,8,0,75
+1372461,971549,2020-07-16,House,Passage,69,0,6,0,75
+1372468,971552,2020-07-16,House,Passage,68,0,7,0,75
+1372475,971536,2020-07-16,House,Passage,69,0,6,0,75
+1372482,971574,2020-07-16,House,Passage,69,0,6,0,75
+1372487,971532,2020-07-16,House,Passage,69,0,6,0,75
+1372492,971545,2020-07-16,Senate,"Passage in concurrence",36,0,2,0,38
+1372492,971546,2020-07-16,House,Passage,68,0,6,1,75
+1372498,971678,2020-07-16,House,Passage,68,0,7,0,75
+1372649,971592,2020-07-16,House,"Passage in concurrence",68,0,7,0,75
+1372752,971554,2020-07-16,House,Passage,68,0,7,0,75
+1372761,971593,2020-07-16,House,"Passage in concurrence",68,0,7,0,75
+1372768,971691,2020-07-16,House,"Passage in concurrence",69,0,6,0,75
+1372794,971513,2020-07-16,Senate,"Passage in concurrence",32,5,1,0,38
+1372794,971514,2020-07-16,House,Passage,57,12,5,1,75
+1372812,971555,2020-07-16,Senate,Passage,32,4,2,0,38
+1372812,971556,2020-07-16,House,"Passage in concurrence",67,0,8,0,75
+1372824,971682,2020-07-16,House,Passage,69,0,6,0,75
+1372980,971568,2020-07-16,House,Passage,65,0,10,0,75
+1372993,971695,2020-07-16,House,Passage,69,0,6,0,75
+1373007,971584,2020-07-16,House,Passage,65,5,5,0,75
+1373417,971502,2020-07-16,Senate,Passage,36,0,2,0,38
+1373417,971503,2020-07-16,House,"Passage in concurrence",67,0,8,0,75
+1373444,971558,2020-07-16,House,Passage,64,0,11,0,75
+1373458,971692,2020-07-16,House,Passage,65,0,10,0,75
+1373466,971561,2020-07-16,House,Passage,65,0,10,0,75
